@@ -2,5 +2,6 @@ import random
 
 
 def gamno():
-    jopa = 120
-    return random.randint(1,10)f
+    jopa = 140
+    ##unreal
+    return random.randint(1,10)
